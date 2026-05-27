@@ -1,1 +1,2 @@
 Git is basically project save states.
+Commits are project checkpoints.
