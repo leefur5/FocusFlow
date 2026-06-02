@@ -1,2 +1,3 @@
 Git is basically project save states.
 Commits are project checkpoints.
+this is a third row.
